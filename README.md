@@ -21,4 +21,4 @@ refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
-Storyboard generator is available under the [BSD-2 license](LICENSE).
+Storyboard generator is available under the [BSD-2 license](LICENSE.txt).
