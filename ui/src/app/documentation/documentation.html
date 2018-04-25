@@ -1,0 +1,91 @@
+<!-- Copyright © 2017-2018 VMware, Inc. All Rights Reserved. -->
+<!-- SPDX-License-Identifier: BSD-2-Clause -->
+
+<div class="content-container">
+  <main class="content-area" hash-Listener id="content-area" style="position:relative">
+    <h1 id="introduction">Storyboard Generator Documentation</h1>
+    <p>Storyboard Generator is a tool to help R&D Product teams develop and create their own storyboards to help with the product design process. This project was inspired by the the CMBU UX team’s 2017 RADIO poster (<a href="https://radio.eng.vmware.com/2017/events/1646">"Using Storytelling to Promote Customer Experience,”</a> selected for the People’s Choice prize). Their poster asserted the value of using storytelling as a strategic tool to be used by teams throughout the product development process to build empathy for our user’s needs and create a shared vocabulary between teams.</p>
+    <h2 id="storysyntax">Story Syntax</h2>
+    <p>Specify the place ("SETTING") your story takes place and the characters acting in your story. <br>
+    Use descriptive words in the parentheses to add more flavor to your scene or character. Once a description is set, you don't need to declare it again until it changes.<br>
+    To add a new panel change the setting; the background image the actors are placed on will change. Scenes can also be embelished with parenthetical descriptors<br> 
+    Signify speech with ":".<br> 
+    The Narrator is a special type of character and adds a caption to the panel.
+    </p>
+    <p>
+    #Title<br>
+    SETTING (property)<br>
+    Character: (property) speak<br>
+    Narrator: caption text<br>
+    //Comments<br>
+    </p>
+    <h3>Sample Syntax</h3>
+    <div class="row">
+      <div class="col-xs-12 col-md-5">
+        <pre>
+  // this is a sample
+  #Customer Confusion
+  AT COMPUTER (computer default)
+  Mark (green, bronze, confused)
+  Narrator: Mark is very confused
+  
+        </pre>
+      </div>
+      <div class="col-xs-12 col-md-5">
+        <img src="../assets/Mark_is_confused.png" alt="Mark is confused" height="300" width="500">
+      </div>
+    </div>
+
+    <h2 id="setting">Setting</h2>
+    <p>
+      Settings describe the background or scene that the characters are acting in. Here are the list of available scenes you can set and some examples of how they may look.
+    </p>
+    <img src="../../assets/Documentation/all-locations.png" alt="Storyboard Locations">
+
+    <h2 id="actors">Actors</h2>
+    <p>
+      Your actors are a combination of their appearance and their clothing, both of which you can specify singularly with a color.
+    </p>
+    <img src="../../assets/Documentation/all-skincolors.png" alt="Character appearance">
+    <img src="../../assets/Documentation/all-shirtcolors.png" alt="Character clothing">
+    <h2 id="parentheticals">Characteristics and Props</h2>
+    <p>
+      The characteristics or properties you add to your characters give them some personality.
+    </p>
+    <a id="emotions"><h3>Emotions</h3></a>
+    <img src="../../assets/Documentation/all-arms.png" alt="Character appearance">
+    <img src="../../assets/Documentation/all-facialexpressions.png" alt="Character clothing">
+    <h3 id="props">Props</h3>
+    <img src="../../assets/Documentation/all-accessories.png" alt="Character appearance">
+  </main>
+
+  <nav class="sidenav clr-nav-level-2">
+    <section class="sidenav-content">
+      <section class="nav-group">
+        <label>
+          <a class="nav-link" href="/documentation#introduction">Introduction</a>
+        </label>
+        <label>
+          <a class="nav-link" href="/documentation#storysyntax">Story Syntax</a>
+        </label>
+        <label>
+          <a class="nav-link" href="/documentation#setting">Setting</a>
+        </label>
+        <label>
+          <a class="nav-link" href="/documentation#actors">Actors</a>
+        </label>
+        <label>
+          <a class="nav-link" href="/documentation#parentheticals">Characteristics and Props</a>
+        </label>
+        <ul class="nav-list">
+          <li>
+            <a class="nav-link" href="/documentation#emotions">Emotions</a>
+          </li>
+          <li>
+            <a class="nav-link" href="/documentation#props">Props</a>
+          </li>
+        </ul>
+      </section>
+    </section>
+  </nav>
+</div>

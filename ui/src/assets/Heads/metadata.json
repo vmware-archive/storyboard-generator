@@ -1,0 +1,40 @@
+{
+  "files": [
+    {
+      "url": "head-pale.png",
+      "type": "head",
+      "characteristics": [
+        "pale",
+        "default"
+      ]
+    },
+    {
+      "url": "head-light.png",
+      "type": "head",
+      "characteristics": [
+        "light"
+      ]
+    },
+    {
+      "url": "head-medium.png",
+      "type": "head",
+      "characteristics": [
+        "medium"
+      ]
+    },
+    {
+      "url": "head-bronze.png",
+      "type": "head",
+      "characteristics": [
+        "bronze"
+      ]
+    },
+    {
+      "url": "head-dark.png",
+      "type": "head",
+      "characteristics": [
+        "dark"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "files": [
+    {
+      "url": "body-blue.png",
+      "type": "body",
+      "characteristics": [
+        "blue",
+        "light blue",
+        "classy",
+        "default",
+        "neutral"
+      ]
+    },
+    {
+      "url": "body-green.png",
+      "type": "body",
+      "characteristics": [
+        "green"
+      ]
+    },
+    {
+      "url": "body-light-plum.png",
+      "type": "body",
+      "characteristics": [
+        "purple",
+        "plum",
+        "pink",
+        "lavender"
+      ]
+    },
+    {
+      "url": "body-orange.png",
+      "type": "body",
+      "characteristics": [
+        "orange",
+        "red"
+      ]
+    },
+    {
+      "url": "body-violet.png",
+      "type": "body",
+      "characteristics": [
+        "blue",
+        "dark blue",
+        "violet"
+      ]
+    }
+  ]
+}

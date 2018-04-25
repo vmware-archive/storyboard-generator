@@ -1,0 +1,86 @@
+{
+  "files": [
+    {
+      "url": "bow-blue.png",
+      "type": "bow",
+      "characteristics": [
+        "blue",
+        "light blue"
+      ]
+    },
+    {
+      "url": "bow-red.png",
+      "type": "bow",
+      "characteristics": [
+        "red"
+      ]
+    },
+    {
+      "url": "bow-yellow.png",
+      "type": "bow",
+      "characteristics": [
+        "yellow",
+        "cute"
+      ]
+    },
+    {
+      "url": "glasses.png",
+      "type": "bow",
+      "characteristics": [
+        "red",
+        "cute"
+      ]
+    },
+    {
+      "url": "mustache-scruffy.png",
+      "type": "mustache",
+      "characteristics": [
+        "mustache",
+        "scruffy",
+        "scraggly"
+      ]
+    },
+    {
+      "url": "mustache-straight.png",
+      "type": "mustache",
+      "characteristics": [
+        "mustache",
+        "old-timey",
+        "thin",
+        "straight"
+      ]
+    },
+    {
+      "url": "tie-black.png",
+      "type": "tie",
+      "characteristics": [
+        "tie",
+        "black",
+        "serious",
+        "business"
+      ]
+    },
+    {
+      "url": "tie-blue.png",
+      "type": "tie",
+      "characteristics": [
+        "tie",
+        "blue",
+        "dark blue",
+        "light blue",
+        "purple",
+        "nice"
+      ]
+    },
+    {
+      "url": "tie-yellow.png",
+      "type": "tie",
+      "characteristics": [
+        "tie",
+        "yellow",
+        "fun",
+        "silly"
+      ]
+    }
+  ]
+}

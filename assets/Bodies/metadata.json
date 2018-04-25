@@ -1,0 +1,81 @@
+{
+  "files": [
+    {
+      "url": "body-blue.png",
+      "type": "body",
+      "characteristics": [
+        "blue",
+        "light blue",
+        "classy",
+        "default",
+        "neutral"
+      ]
+    },
+    {
+      "url": "body-green.png",
+      "type": "body",
+      "characteristics": [
+        "green"
+      ]
+    },
+    {
+      "url": "body-light-plum.png",
+      "type": "body",
+      "characteristics": [
+        "purple",
+        "plum",
+        "lavender"
+      ]
+    },
+    {
+      "url": "body-orange.png",
+      "type": "body",
+      "characteristics": [
+        "orange",
+        "red"
+      ]
+    },
+    {
+      "url": "body-violet.png",
+      "type": "body",
+      "characteristics": [
+        "blue",
+        "dark blue",
+        "navy",
+        "violet"
+      ]
+    },
+    {
+      "url": "body-black.png",
+      "type": "body",
+      "characteristics": [
+        "black",
+        "dark"
+      ]
+    },
+    {
+      "url": "body-gray.png",
+      "type": "body",
+      "characteristics": [
+        "gray",
+        "grey"
+      ]
+    },
+    {
+      "url": "body-pink.png",
+      "type": "body",
+      "characteristics": [
+        "pink",
+        "rose"
+      ]
+    },
+    {
+      "url": "body-white.png",
+      "type": "body",
+      "characteristics": [
+        "white",
+        "beige"
+      ]
+    }
+  ]
+}

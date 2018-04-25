@@ -1,0 +1,95 @@
+{
+  "files": [
+    {
+      "url": "face-angry.png",
+      "type": "face",
+      "characteristics": [
+        "angry",
+        "pissed",
+        "upset",
+        "exasperated"
+      ]
+    },
+    {
+      "url": "face-confused.png",
+      "type": "face",
+      "characteristics": [
+        "upset",
+        "confused",
+        "puzzled",
+        "perplexed",
+        "vexed",
+        "sad",
+        "disappointed",
+        "stressed"
+      ]
+    },
+    {
+      "url": "face-happy.png",
+      "type": "face",
+      "characteristics": [
+        "happy",
+        "excited",
+        "ready",
+        "successful",
+        "relaxed",
+        "glad",
+        "overjoyed"
+      ]
+    },
+    {
+      "url": "face-heart.png",
+      "type":"face",
+      "characteristics": [
+	"love",
+	"heart",
+	"like",
+	"infatuate"
+      ]
+    },
+    {
+      "url": "face-neutral.png",
+      "type": "face",
+      "characteristics": [
+        "neutral",
+        "default",
+        "think"
+      ]
+    },
+    {
+      "url": "face-sad.png",
+      "type": "face",
+      "characteristics": [
+        "sad",
+        "upset",
+        "stressed",
+        "confused",
+        "puzzled",
+        "perplexed",
+        "worried"
+      ]
+    },
+    {
+      "url": "face-shocked.png",
+      "type": "face",
+      "characteristics": [
+        "shocked",
+        "upset",
+        "stressed",
+        "worried"
+      ]
+    },
+    {
+      "url": "face-talking.png",
+      "type": "face",
+      "characteristics": [
+        "talk",
+        "happy",
+        "excited",
+        "ready",
+        "explain",
+        "call"
+      ]
+    }
+  ]
+}

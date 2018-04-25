@@ -1,0 +1,35 @@
+// Copyright © 2017-2018 VMware, Inc. All Rights Reserved.
+// SPDX-License-Identifier: BSD-2-Clause
+
+:host {
+}
+
+span {
+}
+
+h3 {
+  // margin-top: 0;
+}
+
+pre {
+  background-color: rgba(255,255,255,.25);
+  padding: 6px;
+  height: 300px;
+}
+
+img {
+	margin: 12px;
+	display: block;
+	width: 100%;
+}
+
+#limheight {
+    height: 300px; /*your fixed height*/
+    // -webkit-column-count: 3;
+    //    -moz-column-count: 3;
+            column-count: 3; /*3 in those rules is just placeholder -- can be anything*/
+}
+#limheight li {
+    display: inline-block; /*necessary*/
+    padding-bottom: 20px;  
+}

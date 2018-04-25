@@ -1,0 +1,38 @@
+// Copyright © 2017-2018 VMware, Inc. All Rights Reserved.
+// SPDX-License-Identifier: BSD-2-Clause
+
+:host {
+  font-family: ShadowsIntoLight;
+}
+
+.panel {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+canvas {
+  background-color: #eee;
+  border: 2px solid #5a5a5a;
+  width: 180px;
+}
+
+.caption {
+  font-size: 12px;
+  line-height: 16px;
+  margin-top: 6px;
+  text-align: center;
+  width: 180px;
+}
+
+:host-context(.preview) {
+  canvas {
+    width: 360px;
+  }
+  .caption {
+    font-size: 24px;
+    line-height: 30px;
+    width: 360px;
+  }
+}

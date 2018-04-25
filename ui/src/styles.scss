@@ -1,0 +1,14 @@
+// Copyright © 2017-2018 VMware, Inc. All Rights Reserved.
+// SPDX-License-Identifier: BSD-2-Clause
+
+/* You can add global styles to this file, and also import other style files */
+
+/** Clarity **/
+@import '../node_modules/clarity-ui/clarity-ui.min.css';
+@import '../node_modules/clarity-icons/clarity-icons.min.css';
+
+/** Font **/
+@font-face {
+  font-family: "ShadowsIntoLight";
+  src: url(./assets/ShadowsIntoLight.ttf) format("truetype");
+}

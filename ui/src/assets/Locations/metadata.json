@@ -1,0 +1,159 @@
+{
+  "files": [
+    {
+      "url": "city.png",
+      "type": "location",
+      "characteristics": [
+        "city",
+        "skyline",
+        "away",
+        "travel"
+      ]
+    },
+    {
+      "url": "company.png",
+      "type": "location",
+      "characteristics": [
+        "company",
+        "work",
+        "outside",
+        "coming",
+        "leaving",
+        "arrive"
+      ]
+    },
+    {
+      "url": "computer-conversation.png",
+      "type": "location",
+      "characteristics": [
+        "conversation",
+        "split",
+        "two",
+        "chat",
+        "computer",
+        "email"
+      ]
+    },
+    {
+      "url": "computer-diagonal.png",
+      "type": "location",
+      "characteristics": [
+        "computer",
+        "coffee",
+        "screen",
+        "look",
+        "desk",
+        "app"
+      ]
+    },
+    {
+      "url": "couch.png",
+      "type": "location",
+      "characteristics": [
+        "home",
+        "couch",
+        "plant",
+        "house",
+        "break",
+        "rest"
+      ]
+    },
+    {
+      "url": "datacenter.png",
+      "type": "location",
+      "characteristics": [
+        "datacenter",
+        "server",
+        "rack",
+        "connect",
+        "find"
+      ]
+    },
+    {
+      "url": "default.png",
+      "type": "location",
+      "characteristics": [
+        "default",
+        "white",
+        "wall",
+        "blank"
+      ]
+    },
+    {
+      "url": "introduction.png",
+      "type": "location",
+      "characteristics": [
+        "intro",
+        "arrow"
+      ]
+    },
+    {
+      "url": "meetingroom.png",
+      "type": "location",
+      "characteristics": [
+        "meet",
+        "present",
+        "room",
+        "project",
+        "group",
+        "report"
+      ]
+    }, 
+    {
+      "url": "office.png",
+      "type": "location",
+      "characteristics": [
+        "office",
+        "work",
+        "team",
+        "desk",
+        "chair",
+        "day"
+      ]
+    },
+    {
+      "url": "phone-conversation.png",
+      "type": "location",
+      "characteristics": [
+        "conversation",
+        "phone",
+        "speak",
+        "talk",
+        "discuss"
+      ]
+    },
+    {
+      "url": "team.png",
+      "type": "location",
+      "characteristics": [
+        "people",
+        "team",
+        "group",
+        "crowd"
+      ]
+    },
+    {
+      "url": "watercooler.png",
+      "type": "location",
+      "characteristics": [
+        "conversation",
+        "water",
+        "break",
+        "chat",
+        "discuss",
+        "hear"
+      ]
+    },
+    {
+      "url": "world.png",
+      "type": "location",
+      "characteristics": [
+        "locate",
+        "far",
+        "world",
+        "globe",
+        "across"
+      ]
+    } 
+  ]
+}

@@ -1,0 +1,26 @@
+<!-- Copyright © 2017-2018 VMware, Inc. All Rights Reserved. -->
+<!-- SPDX-License-Identifier: BSD-2-Clause -->
+
+<clr-main-container>
+  <clr-header>
+    <div class="branding">
+      <img class="brand-image" src="main-icon.png" />
+      <span class="title">Storyboard Generator</span>
+    </div>
+    <div class="header-nav">
+      <a class="nav-link" href="#" [routerLink]="['/home']" queryParamsHandling="merge" routerLinkActive="active"><span class="nav-text">Story Generator</span></a>
+      <a class="nav-link" href="#" [routerLink]="['/documentation']" queryParamsHandling="merge" routerLinkActive="active" target="_blank"><span class="nav-text">Documentation</span></a>        
+    </div>
+    <div class="header-actions" *ngIf="showShareButton">
+      <button class="btn btn-primary btn-sm2" (click)="generateTinyUrl()">Generate Sharable URL!</button>
+        <!-- <a href="javascript://" class="nav-link nav-icon">
+            <clr-icon shape="export"></clr-icon>
+        </a> -->
+    </div>
+  </clr-header>
+  <div class="content-container">
+    <div class="content-area">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+</clr-main-container>

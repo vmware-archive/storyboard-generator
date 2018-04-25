@@ -1,0 +1,132 @@
+{
+  "files": [
+    {
+      "url": "bow-blue.png",
+      "type": "bow",
+      "characteristics": [
+        "blue bow",
+        "bow"
+      ]
+    },
+    {
+      "url": "bow-red.png",
+      "type": "bow",
+      "characteristics": [
+        "red bow",
+        "minnie"
+      ]
+    },
+    {
+      "url": "bow-yellow.png",
+      "type": "bow",
+      "characteristics": [
+        "yellow bow",
+        "cute"
+      ]
+    },
+    {
+      "url": "glasses.png",
+      "type": "glasses",
+      "characteristics": [
+        "glasses"
+      ]
+    },
+    {
+      "url": "glasses-round.png",
+      "type": "glasses",
+      "characteristics": [
+        "round glasses",
+        "harry potter"
+      ]
+    },
+    {
+      "url": "glasses-square.png",
+      "type": "glasses",
+      "characteristics": [
+        "square glasses",
+        "hipster"
+      ]
+    },
+    {
+      "url": "glasses-sun.png",
+      "type": "glasses",
+      "characteristics": [
+        "sunglasses",
+        "cool",
+        "shades"
+      ]
+    },
+    {
+      "url": "glasses-thin.png",
+      "type": "glasses",
+      "characteristics": [
+        "thin glasses",
+        "wire rim"
+      ]
+    },
+    {
+      "url": "headset.png",
+      "type": "headwear",
+      "characteristics": [
+        "headset",
+        "bluetooth"
+      ]
+    },
+    {
+      "url": "mustache-scruffy.png",
+      "type": "mustache",
+      "characteristics": [
+        "scruffy mustache",
+        "scruffy",
+        "scraggly"
+      ]
+    },
+    {
+      "url": "mustache-straight.png",
+      "type": "mustache",
+      "characteristics": [
+        "straight mustache",
+        "old-timey",
+        "mustache",
+        "thin",
+        "straight"
+      ]
+    },
+    {
+      "url": "tie-black.png",
+      "type": "tie",
+      "characteristics": [
+	    "black tie",
+        "tie",
+        "serious",
+        "business"
+      ]
+    },
+    {
+      "url": "tie-blue.png",
+      "type": "tie",
+      "characteristics": [
+        "blue tie",
+        "nice"
+      ]
+    },
+    {
+      "url": "tie-red.png",
+      "type": "tie",
+      "characteristics": [
+        "red tie",
+        "power",
+        "politician"
+      ]
+    },
+    {
+      "url": "tie-yellow.png",
+      "type": "tie",
+      "characteristics": [
+        "yellow tie",
+        "fun",
+        "silly"
+      ]
+    }
+  ]
+}

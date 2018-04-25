@@ -1,0 +1,126 @@
+{
+  "files": [
+    {
+      "url": "arms-crossed.png",
+      "type": "arms",
+      "characteristics": [
+        "crossed",
+        "think",
+        "upset",
+        "distressed",
+        "sad",
+        "unhappy",
+        "puzzled"
+      ]
+    },
+    {
+      "url": "arms-neutral.png",
+      "type": "arms",
+      "characteristics": [
+        "default",
+        "neutral",
+        "think",
+        "talk"
+      ]
+    },
+    {
+      "url": "arms-on-phone.png",
+      "type": "arms",
+      "characteristics": [
+        "phone",
+        "call"
+      ]
+    },
+    {
+      "url": "arms-on-waist.png",
+      "type": "arms",
+      "characteristics": [
+        "waist",
+        "determined",
+        "confident",
+        "ready",
+        "prepared",
+        "serious",
+        "angry",
+        "pissed",
+        "mad",
+        "righteous"
+      ]
+    },
+    {
+      "url": "arms-raised.png",
+      "type": "arms",
+      "characteristics": [
+        "excited",
+        "panicked",
+        "alarmed",
+        "frustrated",
+        "despair",
+        "upset",
+        "incredulous",
+        "shocked",
+        "overjoyed",
+        "worried"
+      ]
+    },
+    {
+      "url": "arms-scratching.png",
+      "type": "arms",
+      "characteristics": [
+        "confused",
+        "puzzled",
+        "perplexed",
+        "vexed",
+        "lost",
+        "stumped",
+        "worried"
+      ]
+    },
+    {
+      "url": "arms-talking.png",
+      "type": "arms",
+      "characteristics": [
+        "talk",
+        "explain",
+        "think",
+        "worried"
+      ]
+    },
+    {
+      "url": "arms-thinking.png",
+      "type": "arms",
+      "characteristics": [
+        "confused",
+        "puzzled",
+        "perplexed",
+        "baffled",
+        "lost",
+        "thinking",
+        "pensive",
+        "wonder"
+      ]
+    },
+    {
+      "url": "arms-thumbs.png",
+      "type": "arms",
+      "characteristics": [
+        "happy",
+        "satisfied",
+        "done"
+      ]
+    },
+    {
+      "url": "arms-whatever.png",
+      "type": "arms",
+      "characteristics": [
+        "exasperated",
+        "talk",
+        "think",
+        "explain",
+        "nonchalant",
+        "angry",
+        "upset"
+      ]
+    }
+  ]
+}

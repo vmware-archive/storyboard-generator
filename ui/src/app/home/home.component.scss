@@ -1,0 +1,111 @@
+// Copyright © 2017-2018 VMware, Inc. All Rights Reserved.
+// SPDX-License-Identifier: BSD-2-Clause
+
+:host {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+#home {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.preview-toggle,
+.inst-toggle {
+  display: flex;
+  flex: 0 0 18px;
+
+  span {
+    display: block;
+    flex: 1;
+  }
+
+  .toggle {
+    border-width: 6px;
+    border-style: solid;
+    flex: 0;
+    height: 0;
+    width: 0;
+  }
+}
+
+.storyboard-controls {
+  flex: 0 0 36px;
+}
+
+app-storyboard {
+  background-color: white;
+  border-radius: 3px;
+  flex: 0 0 192px;
+}
+
+.preview-toggle {
+  cursor: row-resize;
+  flex-direction: row;
+
+  .toggle {
+    border-color: #565656 transparent transparent transparent;
+    margin-top: 6px;
+  }
+}
+
+#editor {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+}
+
+app-writer {
+  flex: 2;
+}
+
+.inst-toggle {
+  cursor: col-resize;
+  flex-direction: column; 
+
+  span {
+    display: block;
+    flex: 1;
+  }
+
+  .toggle {
+    border-color: transparent transparent transparent #565656;
+    margin-left: 6px;
+  }
+}
+
+app-instructions {
+  flex: 1;
+}
+
+/* TOGGLE STATES */
+
+#home.preview {
+  .toggle {
+    border-color: transparent transparent #565656 transparent;
+    margin-top: 0;
+  }
+
+  app-storyboard {
+    flex: 1;
+    margin-bottom: 0;
+  }
+
+  #editor {
+    display: none;
+  }
+}
+
+#editor.max {
+  .toggle {
+    border-color: transparent #565656 transparent transparent;
+    margin-left: 0;
+  }
+
+  app-instructions {
+    display: none;
+  }
+}

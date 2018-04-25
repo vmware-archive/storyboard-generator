@@ -1,0 +1,23 @@
+<!-- Copyright © 2017-2018 VMware, Inc. All Rights Reserved. -->
+<!-- SPDX-License-Identifier: BSD-2-Clause -->
+
+ <div id="home" class="_">
+   <!-- <div class="storyboard-controls">
+     <button class="btn btn-link btn-sm" (click)="generateTinyUrl()">Share URL</button>
+   </div> -->
+   <app-storyboard [storyboard]="storyboard"></app-storyboard>
+   <div class="preview-toggle" (click)="togglePreview()">
+       <span></span>
+       <div class="toggle"></div>
+       <span></span>
+     </div>
+   <div id="editor" class="_">
+     <app-writer [(story)]="story"></app-writer>
+     <div class="inst-toggle" (click)="toggleInstructions()">
+       <span></span>
+       <div class="toggle"></div>
+       <span></span>
+     </div>
+     <app-instructions></app-instructions>
+   </div>
+</div>

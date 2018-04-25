@@ -1,0 +1,45 @@
+
+Jamie has: blue shirt
+
+Jamie is located: room 1
+
+Sign: App Owner: Jaime
+
+Narrator: Ethan looks up the villain VM's owner, Jaime.
+
+Ethan has : purple shirt
+
+Ethan is located: room 2
+
+Ethan -> Jaime
+
+Narrator: Ethan calls Jamie and explains the situation.
+
+Jaime: It's okay to power off the VM.
+
+Narrator: Jaime tells Ethan the issue is being fixed and it's ok to restart the VM as a temporary workaround.
+
+Jaime: (angry) foobar *emph* foo
+Jaime: baz
+Jaime: (neutral) baz
+
+Jaime -> Ethan: (glasses) Hey dude like my new specs?
+
+Jaime: (glasses,angry) I'm mad about these glasses
+
+SCENE
+Character: (property)
+Character: speech text
+Character: (property,emotion) speech text
+
+ROOM 1
+Jaime: (blue shirt)
+ROOM 2
+Ethan: (purple shirt)
+Jaime -> Ethan: (phone) It's ok to power off the VM.
+
+Ethan: That was easy  (thought bubble)
+Ethan -> Ethan:  What was I thinking?   (speech bubble)
+
+Narrator: Jaime tells Ethan the issue  (renders outside)
+Narrator -> Jaime: Jaime is the application owner  (renders inside)

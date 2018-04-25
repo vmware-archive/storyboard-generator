@@ -1,0 +1,9 @@
+<!-- Copyright © 2017-2018 VMware, Inc. All Rights Reserved. -->
+<!-- SPDX-License-Identifier: BSD-2-Clause -->
+
+<div *ngIf="storyboard" class="storyboard">
+  <h1>{{storyboard.title}}</h1>
+  <div class="panels">
+    <app-panel *ngFor="let panel of storyboard.panels" [panel]="panel"></app-panel>
+  </div>
+</div>
