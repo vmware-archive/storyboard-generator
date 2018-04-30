@@ -1,9 +1,7 @@
 
-FROM node:7
-MAINTAINER Team Awesomeness (team-awesomeness@localhost)
+FROM node:8
 
-
-ADD ui /ui
+COPY ui /ui
 
 WORKDIR /ui
 

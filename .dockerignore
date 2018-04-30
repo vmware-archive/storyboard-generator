@@ -1,0 +1,7 @@
+# compiled output
+ui/dist/**/*
+ui/dist
+
+# dependencies
+ui/node_modules/**/*
+ui/node_modules
