@@ -5,8 +5,8 @@
       "type": "location",
       "characteristics": [
         "city",
-        "skyline",
         "away",
+        "skyline",
         "travel"
       ]
     },
@@ -24,8 +24,9 @@
       "type": "location",
       "characteristics": [
         "computer conversation",
-        "im",
         "email",
+        "im",
+        "message",
         "slack"
       ]
     },
@@ -35,20 +36,20 @@
       "characteristics": [
         "computer default",
         "computer",
-        "screen",
         "desk",
-        "office"
+        "screen"
       ]
     },
     {
       "url": "computer-diagonal.png",
       "type": "location",
       "characteristics": [
-        "computer diag",
-        "screen diag",
-        "desk diag",
+        "computer diagonal",
+        "app",
         "coffee",
-        "app"
+        "computer diag",
+        "desk diag",
+        "screen diag"
       ]
     },
     {
@@ -57,8 +58,8 @@
       "characteristics": [
         "couch",
         "home",
-        "plant",
-        "house"
+        "house",
+        "plant"
       ]
     },
     {
@@ -66,9 +67,9 @@
       "type": "location",
       "characteristics": [
         "datacenter",
-        "server",
+        "hardware",
         "rack",
-        "hardware"
+        "server"
       ]
     },
     {
@@ -76,9 +77,9 @@
       "type": "location",
       "characteristics": [
         "default",
-        "white",
+        "blank",
         "wall",
-        "blank"
+        "white"
       ]
     },
     {
@@ -86,8 +87,8 @@
       "type": "location",
       "characteristics": [
         "introduction",
-        "intro",
         "arrow",
+        "intro",
         "sign"
       ]
     },
@@ -96,23 +97,23 @@
       "type": "location",
       "characteristics": [
         "meetingroom",
-        "meeting room",
+        "conference",
         "meet",
         "meeting",
-        "conference",
+        "meeting room",
         "present",
-        "room",
         "project",
-        "report"
+        "report",
+        "room"
       ]
-    }, 
+    },
     {
       "url": "office.png",
       "type": "location",
       "characteristics": [
         "office",
-        "work",
-        "chair"
+        "chair",
+        "work"
       ]
     },
     {
@@ -128,9 +129,9 @@
       "type": "location",
       "characteristics": [
         "team",
-        "people",
+        "crowd",
         "group",
-        "crowd"
+        "people"
       ]
     },
     {
@@ -138,10 +139,10 @@
       "type": "location",
       "characteristics": [
         "watercooler",
-        "water",
-        "cooler",
+        "break",
         "conversation",
-        "break"
+        "cooler",
+        "water"
       ]
     },
     {
@@ -149,9 +150,9 @@
       "type": "location",
       "characteristics": [
         "world",
+        "far",
         "globe",
-        "locate",
-        "far"
+        "locate"
       ]
     } 
   ]

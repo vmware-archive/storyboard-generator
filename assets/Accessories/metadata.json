@@ -76,6 +76,7 @@
       "url": "mustache-scruffy.png",
       "type": "mustache",
       "characteristics": [
+        "hipster",
         "scruffy mustache",
         "scruffy",
         "scraggly"
@@ -88,7 +89,6 @@
         "straight mustache",
         "old-timey",
         "mustache",
-        "thin",
         "straight"
       ]
     },

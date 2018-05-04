@@ -1,0 +1,31 @@
+# Location Asset Test
+
+CITY (city)
+
+COMPANY (company)
+
+COMPUTER CONV (computer conversation)
+
+COMPUTER (computer default)
+
+COMPUTER DIAGONAL (computer diagonal)
+
+COUCH (couch)
+
+DATACENTER (datacenter)
+
+DEFAULT (default)
+
+INTRODUCTION (introduction)
+
+MEETING ROOM (meeting)
+
+OFFICE (chair)
+
+PHONE (phone)
+
+TEAM (team)
+
+WATERCOOLER (watercooler)
+
+WORLD (world)

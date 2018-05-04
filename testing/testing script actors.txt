@@ -1,0 +1,133 @@
+# Actor Asset Test
+
+LOCATION (default)
+Angry: (angry face) These are my angry eyes
+
+LOCATION
+Black: (black) I'm wearing black
+
+LOCATION
+BlackIte: (black tie) I'm wearing a black tie
+
+LOCATION
+Blue: (blue) I'm wearing blue
+
+LOCATION
+BlueBow: (blue bow) I'm wearing a blue bow
+
+LOCATION
+BlueTie: (blue tie) I'm wearing a blue tie
+
+LOCATION
+Bronze: (bronze) I have bronze skin
+
+LOCATION
+Confused: (confused face) I'm so confused
+
+LOCATION
+Crossed: (crossed) My hands are crossed
+
+LOCATION
+Dark: (dark) I have dark skin
+
+LOCATION
+Default: (default) I'm a default user
+
+LOCATION
+Glasses: (glasses) I'm wearing glasses
+
+LOCATION
+Gray: (gray) I'm wearing gray
+
+LOCATION
+Green: (green) I'm wearing green
+
+LOCATION
+Happy: (happy face) My face is so happy
+
+LOCATION
+Heart: (heart) I have heart eyes
+
+LOCATION
+Headset: (headset) I'm wearing a headset
+
+LOCATION
+Light: (light) I have light skin
+
+LOCATION
+Medium: (medium) I have medium skin
+
+LOCATION
+NeutralArms: (neutral arms) I have neutral arms
+
+LOCATION
+NeutralFace: (neutral face) I have a neutral face
+
+LOCATION
+Orange: (orange) I'm wearing orange
+
+LOCATION
+Pale: (pale) I have pale skin
+
+LOCATION
+Phone: (phone) I'm on the phone
+
+LOCATION
+Pink: (pink) I'm wearing pink
+
+LOCATION
+Plum: (plum) I'm wearing plum
+
+LOCATION
+RedBow: (red bow) I'm wearing a red bow
+
+LOCATION
+RedTie: (red tie) I'm wearing a red tie
+
+LOCATION
+RoundGlasses: (round glasses) I'm wearing round glasses
+
+LOCATION
+Sad: (sad) I'm so sad
+
+LOCATION
+Scruffy: (scruffy mustache) I have a scruffy mustache
+
+LOCATION
+SquareGlasses: (square glasses) My glasses are square
+
+LOCATION
+StraightMustache: (straight mustache) I have a straight mustache
+
+LOCATION
+Sunglasses: (sunglasses) I'm wearing sunglasses
+
+LOCATION
+Talking: (talking) I'm talking to you
+
+LOCATION
+ThinGlasses: (thin glasses) I'm wearing thin glasses
+
+LOCATION
+Thinking: (thinking) I'm thinking about something
+
+LOCATION
+Thumbs: (thumbs) Thumbs up dude
+
+LOCATION
+Violet: (violet) I'm wearing violet
+
+LOCATION
+Waist: (waist) Hands on my waist
+
+LOCATION
+Whatever: (whatever) Whatever!
+
+LOCATION
+White: (white) I'm wearing white
+
+LOCATION
+YellowBow: (yellow bow) I have a yellow bow
+
+LOCATION
+YellowTie: (yellow tie) I have a yellow tie

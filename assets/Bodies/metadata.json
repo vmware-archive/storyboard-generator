@@ -1,14 +1,28 @@
 {
   "files": [
     {
+      "url": "body-black.png",
+      "type": "body",
+      "characteristics": [
+        "black"
+      ]
+    },
+    {
       "url": "body-blue.png",
       "type": "body",
       "characteristics": [
         "blue",
         "light blue",
-        "classy",
+        "classy"
+      ]
+    },
+    {
+      "url": "body-gray.png",
+      "type": "body",
+      "characteristics": [
         "default",
-        "neutral"
+        "gray",
+        "grey"
       ]
     },
     {
@@ -22,9 +36,9 @@
       "url": "body-light-plum.png",
       "type": "body",
       "characteristics": [
-        "purple",
+        "lavender",
         "plum",
-        "lavender"
+        "purple"
       ]
     },
     {
@@ -36,6 +50,14 @@
       ]
     },
     {
+      "url": "body-pink.png",
+      "type": "body",
+      "characteristics": [
+        "pink",
+        "rose"
+      ]
+    },
+    {
       "url": "body-violet.png",
       "type": "body",
       "characteristics": [
@@ -43,30 +65,6 @@
         "dark blue",
         "navy",
         "violet"
-      ]
-    },
-    {
-      "url": "body-black.png",
-      "type": "body",
-      "characteristics": [
-        "black",
-        "dark"
-      ]
-    },
-    {
-      "url": "body-gray.png",
-      "type": "body",
-      "characteristics": [
-        "gray",
-        "grey"
-      ]
-    },
-    {
-      "url": "body-pink.png",
-      "type": "body",
-      "characteristics": [
-        "pink",
-        "rose"
       ]
     },
     {

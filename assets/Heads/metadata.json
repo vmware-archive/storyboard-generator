@@ -4,8 +4,7 @@
       "url": "head-pale.png",
       "type": "head",
       "characteristics": [
-        "pale",
-        "default"
+        "pale"
       ]
     },
     {
@@ -19,6 +18,7 @@
       "url": "head-medium.png",
       "type": "head",
       "characteristics": [
+        "default",
         "medium"
       ]
     },

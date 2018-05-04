@@ -5,12 +5,9 @@
       "type": "arms",
       "characteristics": [
         "crossed",
-        "think",
-        "upset",
         "distressed",
         "sad",
-        "unhappy",
-        "puzzled"
+        "unhappy"
       ]
     },
     {
@@ -19,47 +16,46 @@
       "characteristics": [
         "default",
         "neutral",
-        "think",
-        "talk"
+        "neutral arms"
       ]
     },
     {
       "url": "arms-on-phone.png",
       "type": "arms",
       "characteristics": [
-        "phone",
-        "call"
+        "call",
+        "phone"
       ]
     },
     {
       "url": "arms-on-waist.png",
       "type": "arms",
       "characteristics": [
-        "waist",
-        "determined",
-        "confident",
-        "ready",
-        "prepared",
-        "serious",
         "angry",
-        "pissed",
+        "confident",
+        "determined",
         "mad",
-        "righteous"
+        "pissed",
+        "prepared",
+        "ready",
+        "righteous",
+        "serious",
+        "waist"
       ]
     },
     {
       "url": "arms-raised.png",
       "type": "arms",
       "characteristics": [
-        "excited",
-        "panicked",
         "alarmed",
-        "frustrated",
         "despair",
-        "upset",
+        "excited",
+        "frustrated",
         "incredulous",
-        "shocked",
         "overjoyed",
+        "panicked",
+        "shocked",
+        "upset",
         "worried"
       ]
     },
@@ -69,11 +65,9 @@
       "characteristics": [
         "confused",
         "puzzled",
-        "perplexed",
         "vexed",
         "lost",
-        "stumped",
-        "worried"
+        "stumped"
       ]
     },
     {
@@ -81,20 +75,17 @@
       "type": "arms",
       "characteristics": [
         "talk",
-        "explain",
-        "think",
-        "worried"
+        "talking"
       ]
     },
     {
       "url": "arms-thinking.png",
       "type": "arms",
       "characteristics": [
-        "confused",
-        "puzzled",
         "perplexed",
         "baffled",
         "lost",
+        "think",
         "thinking",
         "pensive",
         "wonder"
@@ -104,9 +95,10 @@
       "url": "arms-thumbs.png",
       "type": "arms",
       "characteristics": [
+        "done",
         "happy",
         "satisfied",
-        "done"
+        "thumbs"
       ]
     },
     {
@@ -114,12 +106,9 @@
       "type": "arms",
       "characteristics": [
         "exasperated",
-        "talk",
-        "think",
         "explain",
         "nonchalant",
-        "angry",
-        "upset"
+        "whatever"
       ]
     }
   ]

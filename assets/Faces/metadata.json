@@ -5,54 +5,61 @@
       "type": "face",
       "characteristics": [
         "angry",
+        "angry face",
+        "exasperated",
+        "frustrated",
         "pissed",
-        "upset",
-        "exasperated"
+        "upset"
       ]
     },
     {
       "url": "face-confused.png",
       "type": "face",
       "characteristics": [
-        "upset",
+        "baffled",
         "confused",
-        "puzzled",
-        "perplexed",
-        "vexed",
-        "sad",
+        "confused face",
         "disappointed",
-        "stressed"
+        "panicked",
+        "perplexed",
+        "puzzled",
+        "stressed",
+        "vexed"
       ]
     },
     {
       "url": "face-happy.png",
       "type": "face",
       "characteristics": [
-        "happy",
         "excited",
-        "ready",
-        "successful",
-        "relaxed",
         "glad",
-        "overjoyed"
+        "happy",
+        "happy face",
+        "overjoyed",
+        "ready",
+        "relaxed",
+        "satisfied",
+        "successful"
       ]
     },
     {
       "url": "face-heart.png",
       "type":"face",
       "characteristics": [
-	"love",
-	"heart",
-	"like",
-	"infatuate"
+        "heart",
+        "infatuate",
+        "like",
+        "love"
       ]
     },
     {
       "url": "face-neutral.png",
       "type": "face",
       "characteristics": [
-        "neutral",
         "default",
+        "neutral",
+        "neutral face",
+        "nonchalant",
         "think"
       ]
     },
@@ -60,22 +67,19 @@
       "url": "face-sad.png",
       "type": "face",
       "characteristics": [
+        "despair",
+        "distressed",
         "sad",
-        "upset",
-        "stressed",
-        "confused",
-        "puzzled",
-        "perplexed",
-        "worried"
+        "stumped",
+        "unhappy"
       ]
     },
     {
       "url": "face-shocked.png",
       "type": "face",
       "characteristics": [
+        "alarmed",
         "shocked",
-        "upset",
-        "stressed",
         "worried"
       ]
     },
@@ -83,12 +87,10 @@
       "url": "face-talking.png",
       "type": "face",
       "characteristics": [
-        "talk",
-        "happy",
-        "excited",
-        "ready",
+        "call",
         "explain",
-        "call"
+        "talk",
+        "talking"
       ]
     }
   ]
