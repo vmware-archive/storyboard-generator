@@ -19,7 +19,7 @@ LOCATION
 BlueTie: (blue tie) I'm wearing a blue tie
 
 LOCATION
-Bronze: (bronze) I have bronze skin
+Bronze: (bronze skin) I have bronze skin
 
 LOCATION
 Confused: (confused face) I'm so confused
@@ -28,7 +28,7 @@ LOCATION
 Crossed: (crossed) My hands are crossed
 
 LOCATION
-Dark: (dark) I have dark skin
+Dark: (dark skin) I have dark skin
 
 LOCATION
 Default: (default) I'm a default user
@@ -52,10 +52,10 @@ LOCATION
 Headset: (headset) I'm wearing a headset
 
 LOCATION
-Light: (light) I have light skin
+Light: (light skin) I have light skin
 
 LOCATION
-Medium: (medium) I have medium skin
+Medium: (medium skin) I have medium skin
 
 LOCATION
 NeutralArms: (neutral arms) I have neutral arms
@@ -67,7 +67,7 @@ LOCATION
 Orange: (orange) I'm wearing orange
 
 LOCATION
-Pale: (pale) I have pale skin
+Pale: (pale skin) I have pale skin
 
 LOCATION
 Phone: (phone) I'm on the phone
@@ -128,6 +128,9 @@ White: (white) I'm wearing white
 
 LOCATION
 YellowBow: (yellow bow) I have a yellow bow
+
+LOCATION
+YellowSkin: (yellow skin) I have yellow skin
 
 LOCATION
 YellowTie: (yellow tie) I have a yellow tie

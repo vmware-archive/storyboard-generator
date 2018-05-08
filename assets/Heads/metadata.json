@@ -4,14 +4,16 @@
       "url": "head-pale.png",
       "type": "head",
       "characteristics": [
-        "pale"
+        "pale skin",
+        "type I skin"
       ]
     },
     {
       "url": "head-light.png",
       "type": "head",
       "characteristics": [
-        "light"
+        "light skin",
+        "type II skin"
       ]
     },
     {
@@ -19,21 +21,34 @@
       "type": "head",
       "characteristics": [
         "default",
-        "medium"
+        "medium skin",
+        "type III skin"
       ]
     },
     {
       "url": "head-bronze.png",
       "type": "head",
       "characteristics": [
-        "bronze"
+        "bronze skin",
+        "type IV skin"
       ]
     },
     {
       "url": "head-dark.png",
       "type": "head",
       "characteristics": [
-        "dark"
+        "dark skin",
+        "type V skin"
+      ]
+    },
+    {
+      "url": "head-yellow.png",
+      "type": "head",
+      "characteristics": [
+        "yellow skin",
+        "emoji",
+        "lego",
+        "mini-fig"
       ]
     }
   ]

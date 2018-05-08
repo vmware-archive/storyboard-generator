@@ -14,18 +14,18 @@ export class HomeComponent implements OnDestroy {
 
   public storyboard: Storyboard;
 
-  private _story: string = `# My First story
-Ethan: (blue, glasses, dark) Hi I'm Ethan
+  private _story: string = `# My First Story
+Ethan: (blue, glasses, bronze skin) Hi I'm Ethan
 Narrator: Ethan looks up the villain VM's owner, Jaime
 
-SPLIT (couch)
+SPLIT (phone)
 Jaime: (orange, phone)
-Ethan: (blue, glasses, dark, phone)
+Ethan: (blue, glasses, bronze skin, phone)
 Narrator: Ethan calls Jaime and explains the situation
 
-OUTSIDE (outside)
+OUTSIDE (desk)
 Ethan:  It's okay to power off the vm
-Narrator: Jaime tells Ethan the issue is being fixed and it's okay to  restart the VM as a temporary workaround`;
+Narrator: Jaime tells Ethan the issue is being fixed and it's okay to restart the VM as a temporary workaround`;
 
   private paramsSubscription: Subscription;
 
