@@ -1,3 +1,4 @@
+# VMware has ended active development of this project, this repository will no longer be updated.
 # Storyboard Generator
 
 Developed as part of a Borathon project, Storyboard Generator is a tool to help R&D Product teams develop and create their own storyboards to help with the product design process.
